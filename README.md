@@ -1,6 +1,6 @@
 # 💳 Payment Methods App
 
-A Flutter-based payment integration app that supports Stripe, PayPal, and Paymob for seamless transactions. Designed for secure and efficient online payments.
+A Flutter Payment Methods app that supports Stripe, PayPal, and Paymob for seamless transactions. Designed for secure and efficient online payments.
 
 ---
 
