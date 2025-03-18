@@ -55,6 +55,7 @@ A Flutter-based payment integration app that supports Stripe, PayPal, and Paymob
 
 ## ⚙️ Requirements
 
+To run this project, you must set up your API keys:
 1-Add your Stripe, PayPal, and Paymob keys in API keys file.
 
 <img src="assets/images/api_keys_image.png" width="300"/>
