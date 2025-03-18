@@ -23,16 +23,33 @@ A Flutter-based payment integration app that supports Stripe, PayPal, and Paymob
 ---
 
 ## 🎥 Demo GIF
+
+## Stripe:
 <img src="assets/images/stripe_gif.gif" width="400"/>  
+
+## PayPal:
 <img src="assets/images/paybal_gif.gif" width="400"/> 
+
+## Paymob:
 <img src="assets/images/paymob_gif.gif" width="400"/> 
 
 ---
 
 ## 📸 Screenshots
-<img src="assets/images/splash_icon.png" width="300"/>  <img src="assets/images/cart_ayments.png" width="300"/> 
-<img src="assets/images/stripe_payment.png" width="300"/>  <img src="assets/images/paypal_payment.png" width="300"/> 
-<img src="assets/images/paymob_payment.png" width="300"/>  <img src="assets/images/thank_you.png" width="300"/>  
+
+<img src="assets/images/splash_icon.png" width="300"/>
+<img src="assets/images/cart_ayments.png" width="300"/> 
+
+## Stripe:
+<img src="assets/images/stripe_payment.png" width="300"/>
+
+## PayPal:
+<img src="assets/images/paypal_payment.png" width="300"/> 
+
+## Paymob:
+<img src="assets/images/paymob_payment.png" width="300"/>
+
+<img src="assets/images/thank_you.png" width="300"/>  
 
 ---
 
